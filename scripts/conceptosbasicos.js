@@ -81,3 +81,4 @@ function filtarInformacion (){
 //En la carpeta scripts van TODOS los archivos de JS PERO destinados a darle dinamismo al sitio web NO SE RELACIONAN CON LA FUNCIONALIDAD DEL SITIO A NIVEL DEL BACKED
 
 //NODE JS -> Utilizamos para poder implementar js en nustro backend -> Operaciones lógicas nos permiten el FUNCIONAMIENTO de nuestro sitio web
+
